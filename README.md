@@ -14,27 +14,21 @@
 
 ## GitHubでの作業
 
-1. GitHubで新しいPublicリポジトリを作成する。
-2. Repository nameを `pokebattlequick-pages` にする。
-3. このフォルダの中身をリポジトリへアップロードする。
-4. GitHubのリポジトリ画面で `Settings` を開く。
-5. 左メニューの `Pages` を開く。
-6. `Build and deployment` のSourceを `Deploy from a branch` にする。
-7. Branchを `main`、folderを `/root` にして保存する。
-8. 数分後、公開URLが表示される。
+GitHub Actionsで公開済みです。
+
+- Repository: `https://github.com/tkiyo1007-eng/pokebattlequick-pages`
+- Pages: `https://tkiyo1007-eng.github.io/pokebattlequick-pages/`
 
 ## App Store Connectに入力するURL
 
-GitHubユーザー名を `<github-user>` とすると、URLは次の形になります。
-
-- Privacy Policy URL: `https://<github-user>.github.io/pokebattlequick-pages/privacy.html`
-- Support URL: `https://<github-user>.github.io/pokebattlequick-pages/support.html`
+- Privacy Policy URL: `https://tkiyo1007-eng.github.io/pokebattlequick-pages/privacy.html`
+- Support URL: `https://tkiyo1007-eng.github.io/pokebattlequick-pages/support.html`
 
 ## 公開後の確認
 
 ブラウザで次の2つが開けることを確認します。
 
-- `https://<github-user>.github.io/pokebattlequick-pages/privacy.html`
-- `https://<github-user>.github.io/pokebattlequick-pages/support.html`
+- `https://tkiyo1007-eng.github.io/pokebattlequick-pages/privacy.html`
+- `https://tkiyo1007-eng.github.io/pokebattlequick-pages/support.html`
 
-ページが404の場合、GitHub Pagesの反映待ち、またはPages設定のBranch/folderを確認してください。
+公開確認済み: 2026-07-02
